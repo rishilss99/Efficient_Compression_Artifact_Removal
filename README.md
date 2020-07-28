@@ -1,1 +1,1 @@
-# Efficient_Compression_Artifact_Removal
+# Efficient Compression Artifact Removal
